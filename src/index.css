@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+header {
+  z-index: 100;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+.react-multi-carousel-list button {
+  z-index: 1;
+  height: 80px;
+  border-radius: 0px;
+  color: black;
+  background-color: white;
+  box-shadow: 0px 0px 6px rgb(220, 220, 220);
+}
+
+.react-multi-carousel-list button::before {
+  color: gray;
+  font-size: 14px;
+  font-weight: bolder;
+  padding: 0px;
+}
+
+.react-multi-carousel-list button:hover {
+  background-color: rgb(230, 230, 230);
+}
+
+.react-multi-carousel-list .react-multiple-carousel__arrow--left {
+  left: 0;
+  border-radius: 0px 5px 5px 0px;
+}
+
+.react-multi-carousel-list .react-multiple-carousel__arrow--right {
+  right: 0;
+  border-radius: 5px 0px 0px 5px;
+}
