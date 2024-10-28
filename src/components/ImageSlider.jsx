@@ -30,9 +30,9 @@ function ImageSlider() {
                 infinite={true}
                 autoPlay={true}
                 dotListClass="custom-dot-list-style">
-                {SliderImage.map((val) => (
-                    <div className='w-full h-[90px] md:h-auto bg-white cursor-pointer'>
-                        <img src={val.slide} alt="" className='w-full h-full' />
+                {SliderImage.map((values) => (
+                    <div key={values.id} className='w-full h-[90px] md:h-auto bg-white cursor-pointer'>
+                        <img src={values.slide} alt="" className='w-full h-full' />
                     </div>
                 ))}
             </Carousel>

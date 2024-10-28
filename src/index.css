@@ -2,17 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 body {
   background-color: rgb(240, 240, 240);
+  font-family: Inter;
 }
 
 header {
   z-index: 100;
 }
 
-::-webkit-scrollbar {
-  width: 0;
-}
 
 .react-multi-carousel-list button {
   z-index: 1;
@@ -20,7 +20,7 @@ header {
   border-radius: 0px;
   color: black;
   background-color: white;
-  box-shadow: 0px 0px 6px rgb(220, 220, 220);
+  box-shadow: 0px 0px 2px rgb(56, 56, 56, 0.5);
 }
 
 .react-multi-carousel-list button::before {
@@ -31,7 +31,7 @@ header {
 }
 
 .react-multi-carousel-list button:hover {
-  background-color: rgb(230, 230, 230);
+  background-color: rgb(238, 238, 238);
 }
 
 .react-multi-carousel-list .react-multiple-carousel__arrow--left {

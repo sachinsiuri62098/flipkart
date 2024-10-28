@@ -12,54 +12,64 @@ import Image10 from "../assets/grocery.png"
 
 const ProductCateList = [
     {
+        id: 1,
         image: Image1,
         tittle: "Top Offers",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 2,
         image: Image2,
         tittle: "Mobile & Tablets",
         link: '/mobiles'
     },
     {
+        id: 3,
         image: Image3,
         tittle: "TVs & Appliances",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 4,
         image: Image4,
         tittle: "Electronics",
         link: '/electronics'
     },
     {
+        id: 5,
         image: Image5,
         tittle: "Fashion",
         link: '/fashion'
     },
     {
+        id: 6,
         image: Image6,
         tittle: "Beauty",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 7,
         image: Image7,
         tittle: "Home & Kitchen",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 8,
         image: Image8,
         tittle: "Furniture",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 9,
         image: Image9,
         tittle: "Travel",
-        link: '/mobiles'
+        link: '/'
     },
     {
+        id: 10,
         image: Image10,
         tittle: "Grocery",
-        link: '/mobiles'
+        link: '/'
     }
 ]
 

@@ -1,0 +1,312 @@
+[
+    {
+        "id": 1,
+        "category": "mobile",
+        "brand": "Vivo",
+        "image": "https://i.pinimg.com/564x/91/c9/06/91c9061356745c3277d9f9133db36339.jpg",
+        "product_name": "Vivo Y20 64 GB (Dawn White, 4 GB RAM)",
+        "old_price": 12999,
+        "new_price": 10999,
+        "description": "No"
+    },
+    {
+        "id": 2,
+        "category": "mobile",
+        "brand": "Realme",
+        "image": "https://i.pinimg.com/564x/17/fe/a7/17fea707947fc32f4fe3389867f53c2a.jpg",
+        "product_name": "Realme C61 (6GB RAM, 128GB) 5G",
+        "old_price": 13999,
+        "new_price": 9999,
+        "description": "The Realme C61, which offers unparalleled performance and longevity, is a masterpiece of engineering and design. Its ArmorShell Tough Build ensures outstanding resistance, which includes an Integrated Metal Inner Frame, Reinforced Glass, and a Die-cast Aluminium Structure. It passes stringent testing and is certified by TUV Rheinland for exceptional dependability. Enjoy lag-free usage for four years thanks to its 48-month Fluency certification. The 90 Hz Eye Comfort Display delivers excellent visuals, and seamless multitasking is ensured by up to 6 GB+6 GB Dynamic Memory. The Octa-core CPU provides top-notch performance, and the 5000 mAh Massive Battery allows for longer usage. Use the 32 MP Super Clear Camera to capture breathtaking details."
+    },
+    {
+        "id": 3,
+        "category": "mobile",
+        "brand": "Realme",
+        "image": "https://i.pinimg.com/564x/c5/f1/c0/c5f1c03514e4d70232a79b051d89376a.jpg",
+        "product_name": "Realme",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "category": "mobile",
+        "brand": "Realme",
+        "image": "https://i.pinimg.com/564x/07/03/0d/07030dca0266791e7607ee820c5b6403.jpg",
+        "product_name": "Vivo Y20 64 GB (Dawn White, 4 GB RAM)",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "category": "mobile",
+        "brand": "Realme",
+        "image": "https://i.pinimg.com/564x/df/59/5a/df595adaf7a13572a53d3bcf7913228a.jpg",
+        "product_name": "Realme",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "category": "mobile",
+        "brand": "Samsung Mobile",
+        "image": "https://i.pinimg.com/736x/56/3f/18/563f18dd6d2d9e377bf6aded1223b78e.jpg",
+        "product_name": "Samsung Mobile",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "category": "mobile",
+        "brand": "Samsung Mobile",
+        "image": "https://i.pinimg.com/564x/74/46/67/744667cd78fa04705d51fed14cf521fa.jpg",
+        "product_name": "Samsung Mobile",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "category": "mobile",
+        "brand": "Samsung Mobile",
+        "image": "https://i.pinimg.com/564x/4d/37/6d/4d376dabea9eacf3a3c80cc2dcefdfc9.jpg",
+        "product_name": "Samsung Mobile",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 9,
+        "category": "mobile",
+        "brand": "Samsung Mobile",
+        "image": "https://i.pinimg.com/564x/ea/dc/d3/eadcd30463f7792125f5b0d699d86b5d.jpg",
+        "product_name": "Samsung Galexy",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "category": "mobile",
+        "brand": "Samsung Mobile",
+        "image": "https://i.pinimg.com/564x/70/5a/2e/705a2e72a4939a982160b6c292fefabb.jpg",
+        "product_name": "Samsung Mobile",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 11,
+        "category": "mobile",
+        "brand": "Vivo",
+        "image": "https://i.pinimg.com/564x/c9/60/42/c96042e2326bc74374d86e62362ffe21.jpg",
+        "product_name": "Vivo",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 12,
+        "category": "mobile",
+        "brand": "Vivo",
+        "image": "https://i.pinimg.com/564x/d5/83/f6/d583f6868c1a20c5d7ea970245b32b64.jpg",
+        "product_name": "Vivo",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 13,
+        "category": "mobile",
+        "brand": "Realme",
+        "image": "https://i.pinimg.com/736x/87/ed/f0/87edf0ac82e176ff4e89a7f4e7d39c9e.jpg",
+        "product_name": "Realme",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 14,
+        "category": "mobile",
+        "brand": "Vivo",
+        "image": "https://i.pinimg.com/736x/1a/26/23/1a2623819358851bd4c1288a0fa8285d.jpg",
+        "product_name": "Vivo",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 15,
+        "category": "mobile",
+        "brand": "Vivo",
+        "image": "https://i.pinimg.com/564x/84/3f/97/843f9726fd8d21676328b1b616d1fdc0.jpg",
+        "product_name": "Vivo",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 16,
+        "category": "electronics",
+        "brand": "Usha",
+        "image": "https://i.pinimg.com/564x/c9/ec/84/c9ec84698e8e45875fdfe6970bef9983.jpg",
+        "product_name": "USHA Striker One 1200mm Energy Saving High Speed Decorative Ceiling Fan (Spanish Green)",
+        "old_price": 2499,
+        "new_price": 1499,
+        "description": "Stay cool and comfortable at all times with the Usha Swift Ceiling Fan that offers reliable and efficient performance. Equipped with four 600 mm high-lift angle blades, this ceiling fan ensures optimum airflow across the room and provides ultimate refreshing comfort. And, as this ceiling fan delivers high-performance even at low voltage, low-speed during electricity fluctuations won't be an issue anymore. Additionally, the electric steel lamination and the glossy powder-coated paint add to the long life of this ceiling fan while enhancing the interior of your space."
+    },
+    {
+        "id": 17,
+        "category": "electronics",
+        "brand": "Usha",
+        "image": "https://i.pinimg.com/564x/53/28/7d/53287d822606318aec9982aaaf177da8.jpg",
+        "product_name": "",
+        "old_price": 2499,
+        "new_price": 1999,
+        "description": ""
+    },
+    {
+        "id": 18,
+        "category": "electronics",
+        "brand": "Canon",
+        "image": "https://i.pinimg.com/564x/08/7d/66/087d6601b2bacb4fd831245922e5d1b5.jpg",
+        "product_name": "electronic",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 19,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/45/b3/db/45b3db7f55f0e89d18faa66e118cf91d.jpg",
+        "product_name": "electronic",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 20,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/3c/71/b1/3c71b1698f85d1772af37a36db34685f.jpg",
+        "product_name": "electronic",
+        "old_price": "Special price",
+        "new_price": " ",
+        "description": ""
+    },
+    {
+        "id": 21,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/36/5f/cb/365fcb80ec6b6c18bb01abf3a1a276da.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 22,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/8c/8e/e2/8c8ee2d9e7c96acf21b72813e44c8dd8.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 23,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/d6/0e/74/d60e74a913a2c494becd040e9ecd78bc.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 24,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/14/49/e1/1449e1d52d05818e81b9571920a0e56e.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 25,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/42/f8/eb/42f8ebaae623d6fe2c832962965663ef.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 26,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/f3/f9/2c/f3f92c8f436889b6f8317c574d3ae73a.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 27,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/86/01/05/86010594cd28f205390625730caa7d6c.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 28,
+        "category": "electronic",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/f3/62/cf/f362cf63efa9d733477f5097124b177f.jpg",
+        "product_name": "electronic",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 29,
+        "category": "electronics",
+        "brand": "Philips",
+        "image": "https://i.pinimg.com/564x/90/d2/dd/90d2ddd941b879f47784aa44a2db2726.jpg",
+        "product_name": "electronics",
+        "old_price": "Special price",
+        "new_price": "",
+        "description": ""
+    },
+    {
+        "id": 30,
+        "category": "electronics",
+        "brand": "HP",
+        "image": "https://i.pinimg.com/564x/26/33/66/26336619a15d7b8851d66d77c8714a7d.jpg",
+        "product_name": "HP Chromebook Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na1004TU Chromebook Laptop  (14 Inch, Mineral Silver, 1.46 kg)",
+        "old_price": 45999,
+        "new_price": 41999,
+        "description": "What started as a humble idea soon evolved into an enterprising concept and led to an establishment of a unit to manufacture coolers at affordable prices for the masses. Inspired by overwhelming response from the consumers, the company transformed itself from a mere manufacturing unit into a revolution with over 4 million sq ft area facility to look upon. It was our quest for excellence and grand vision to grow into a multi-product company that led to our expansion. Attention to quality at affordable prices led to huge demand and the emerging class of consumers fueled this increase. Today it's a name synonymous to trust and quality across the country."
+    },
+    {
+        "id": 31,
+        "category": "Tablets",
+        "brand": "Apple Tablets",
+        "image": "https://i.pinimg.com/564x/a2/31/37/a23137cfe4e9ad22a259ba939596385b.jpg",
+        "product_name": "Apple iPad (10th Gen) 64 GB ROM",
+        "old_price": 49999,
+        "new_price": 34999,
+        "description": "Landscape Stereo Speakers, Dual Microphones for Calls, Video Recording and Audio Recording, Video Calling (FaceTime Video): iPad to Any FaceTime Enabled Device over Wi-Fi or Cellular, Audio Calling (FaceTime Audio): iPad to Any FaceTime Enabled Device over Wi-Fi or Cellular, Digital Compass, iBeacon Micro Location, Accessibility Features: VoiceOver, Magnifier, Closed Captions, Voice Control, Siri and Dictation, AssistiveTouch, Zoom, Switch Control, Speak Screen"
+    }
+]

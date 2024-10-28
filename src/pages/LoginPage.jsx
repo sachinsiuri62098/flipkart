@@ -1,17 +1,18 @@
 import React from 'react'
 import LoginImage from '../assets/loginicon.jpg'
 
-function Login() {
+function LoginPage() {
     return (
         <div className='w-full px-5 md:px-20 my-4'>
             <div className='w-full lg:mx-auto lg:w-[850px] inline-block lg:flex my-4'>
                 <LoginHeading />
                 <LoginInput />
+                
             </div>
         </div>
     )
 }
-export default Login
+export default LoginPage
 
 function LoginHeading() {
     return (
@@ -36,7 +37,7 @@ function LoginInput() {
                 By continuing, you agree to Flipkart's <span className='text-blue-500'>Terms of Use</span> and <span className='text-blue-500'>Privacy Policy.</span>
             </p>
             <button className='w-full bg-orange-500 mt-5 text-white font-semibold py-3 shadow-md rounded-sm '>Request OTP</button>
-            <p className='text-blue-500 font-semibold text-center mt-10 lg:mt-56 text-sm'>New to Flipkart? Create an account</p>
+            <p className='text-blue-500 font-semibold text-center mt-10 lg:mt-56 text-sm cursor-pointer'>New to Flipkart? Create an account</p>
         </div>
     )
 }

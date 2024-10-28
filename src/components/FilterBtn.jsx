@@ -2,8 +2,10 @@ import React from 'react'
 
 function FilterBtn(props) {
     return (
-        <button onClick={props.Function} className='w-28 md:w-full bg-gray-200 rounded py-1 text-gray-700 mb-2 focus:bg-yellow-500 focus:text-white'>
-            {props.btnName}</button>
+        <div className='flex items-center'>
+            <input type='radio' name='filter' id={props.Id} onChange={props.Function} value={props.Values} className='cursor-pointer' /> 
+            <label htmlFor={props.Id} className='ms-2 cursor-pointer'>{props.btnName}</label>
+        </div>
     )
 }
 
