@@ -33,26 +33,21 @@ function Mobile() {
     const Mobile_Data = Mobiles.slice(0, 8)
 
     return (
-        <div className='w-full h-[340px] flex justify-between my-4'>
-            <div className='w-[1100px]  py-3 me-2 bg-white '>
-                <div className='flex justify-between px-5 py-2'>
-                    <h2 className='text-xl font-bold'>Top Mobile's Deals</h2>
-                    <Link to={'/mobiles'}>
-                        <button className='bg-blue-500 rounded-full w-[25px] h-[25px] ps-1 text-white text-lg'><MdKeyboardArrowRight /></button>
-                    </Link>
-                </div>
-                <Carousel responsive={res} removeArrowOnDeviceType={["tablet", "mobile"]}>
-                    {Mobile_Data.map((values) => (
-                        <Link to={`/productdetails/${values.id}`} key={values.id} >
-                            <ProductCard product={values} />
-                        </Link>
-                    ))}
-                </Carousel>
-            </div >
-            <div className='w-[260px] h-full bg-red-500 '>
-                <img src={Book_Now} alt="" className='w-full h-full cursor-pointer' />
+        <div className='w-full py-3 me-2 bg-white '>
+            <div className='flex justify-between px-5 py-2'>
+                <h2 className='text-xl font-bold'>Top Mobile's Deals</h2>
+                <Link to={'/mobiles'}>
+                    <button className='bg-blue-500 rounded-full w-[25px] h-[25px] ps-1 text-white text-lg'><MdKeyboardArrowRight /></button>
+                </Link>
             </div>
-        </div>
+            <Carousel responsive={res} removeArrowOnDeviceType={["tablet", "mobile"]}>
+                {Mobile_Data.map((values) => (
+                    <Link to={`/productdetails/${values.id}`} key={values.id} >
+                        <ProductCard product={values} />
+                    </Link>
+                ))}
+            </Carousel>
+        </div >
     );
 }
 export default Mobile;
