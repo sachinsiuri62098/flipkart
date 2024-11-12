@@ -43,7 +43,7 @@ function ProductDetails() {
                     </div>
                     {/* Product Details */}
                     <div className='w-full px-4 py-4 md:py-0'>
-                        <h3 className='font-light text-lg'>{product.product_name}</h3>
+                        <h3 className='text-lg font-semibold'>{product.product_name}</h3>
                         <p className='text-green-600 font-semibold'>Special Price</p>
                         <div className='inline-block md:flex items-end'>
                             <h1 className='text-2xl font-semibold me-2'>₹ {product.new_price}</h1>
