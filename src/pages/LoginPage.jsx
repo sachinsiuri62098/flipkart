@@ -1,15 +1,18 @@
 import React from 'react'
+import Layout from '../components/layout/Layout'
 import LoginImage from '../assets/loginicon.jpg'
 
 function LoginPage() {
     return (
-        <div className='w-full px-5 md:px-20 my-4'>
-            <div className='w-full lg:mx-auto lg:w-[850px] inline-block lg:flex my-4'>
-                <LoginHeading />
-                <LoginInput />
-                
+        <Layout childern={
+            <div className='w-full md:px-20 my-4'>
+                <div className='w-full lg:mx-auto lg:w-[850px] inline-block lg:flex'>
+                    <LoginHeading />
+                    <LoginInput />
+
+                </div>
             </div>
-        </div>
+        } />
     )
 }
 export default LoginPage
@@ -23,7 +26,7 @@ function LoginHeading() {
                 <p className='text-gray-300 text-lg'>Wishlist and Recommendations</p>
             </div>
             <div className='hidden lg:flex justify-center items-center lg:mt-48'>
-                <img src={LoginImage} className='w-52 h-32' />
+                <img src={LoginImage} className='w-52 h-32' alt='login icon' />
             </div>
         </div>
     );

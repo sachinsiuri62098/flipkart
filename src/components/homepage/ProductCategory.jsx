@@ -1,6 +1,6 @@
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
-import ProductCateList from '../jsonData/ProductCategoryList'
+import ProductCateList from '../../jsonData/ProductCategoryList'
 import { Link } from 'react-router-dom'
 
 function ProductCategory() {
@@ -24,7 +24,7 @@ function ProductCategory() {
         }
     }
     return (
-        <div className='w-full bg-white shadow mt-2 mb-4 py-4'>
+        <div className='w-full bg-white shadow md:mt-2 md:mb-4 py-4'>
             <Carousel responsive={res} removeArrowOnDeviceType={["superLargeDesktop", "desktop", "tablet", "mobile"]}>
                 {ProductCateList.map((values) => (
                     <Link to={values.link} key={values.id}>

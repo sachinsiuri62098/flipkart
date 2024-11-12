@@ -1,8 +1,8 @@
 import React from 'react'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
-import ProductList from '../jsonData/ProductList.json'
-import ProductCard from '../components/ProductCard'
+import ProductList from '../../jsonData/ProductList.json'
+import ProductCard from '../../components/ProductCard'
 import { MdKeyboardArrowRight, } from "react-icons/md"
 import { Link } from 'react-router-dom'
 
